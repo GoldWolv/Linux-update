@@ -5,12 +5,12 @@
 
 そしたら
 
-sudo chmod +x ○○.sh
+sudo chmod +x XX.sh
 
-sudo ./○○.sh
+sudo ./XX.sh
 
 上のコマンドを実行する。
 
-(○○はファイルの名前に変更)
+(XXはファイルの名前に変更)
 
 そしたらアップデートされます。
