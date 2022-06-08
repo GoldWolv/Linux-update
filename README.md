@@ -15,7 +15,7 @@ sudo ./XX.sh
 
 そしたらアップデートされます。
 
-#How to use
+How to use
 
 Clone the source code.
 
